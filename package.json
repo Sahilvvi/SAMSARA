@@ -1,0 +1,33 @@
+{
+  "name": "samsara",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.108.4",
+    "@react-three/fiber": "^8.16.8",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.6",
+    "gsap": "^3.12.5",
+    "next": "14.2.5",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "react": "^18",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-intersection-observer": "^9.13.0",
+    "tailwind-merge": "^2.4.0",
+    "tw-elements-react": "^1.0.0-alpha-end",
+    "tailwindcss": "^3.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8"
+  }
+}
